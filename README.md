@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jainarrasimhan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
 <p align="center">    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="materialize" width="400" height="400"/> 
 </p>
-- 🌱 I’m currently learning **Angular-js**
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://jai1.netlify.app/](https://jai1.netlify.app/)
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view](https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view)
+
 - 💬 Ask me about **react, node-js and DSA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view](https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view)
+- 🌱 I’m currently learning **Angular-js**
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jainarrasimhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainarrasimhan" height="30" width="40" /></a>
