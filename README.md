@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jainarrasimhan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
+<p>    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
+</p>
 - 🌱 I’m currently learning **Angular-js**
 
 - 👨‍💻 All of my projects are available at [https://jai1.netlify.app/](https://jai1.netlify.app/)
@@ -8,7 +9,6 @@
 - 💬 Ask me about **react, node-js and DSA**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view](https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view)
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jainarrasimhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainarrasimhan" height="30" width="40" /></a>
