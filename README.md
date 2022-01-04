@@ -20,10 +20,10 @@
 
 
     
-           <h3 align="left">Front-end</h3>
-           <p align="left">
+          <h3 align="left">Front-end</h3>
+
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="200" height="200"/> </a>
-</P>
+
 
 
          
