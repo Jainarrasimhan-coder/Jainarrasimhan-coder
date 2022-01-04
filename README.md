@@ -1,12 +1,13 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jainarrasimhan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
+- 🌱 I’m currently learning **Angular-js**
+
 - 👨‍💻 All of my projects are available at [https://jai1.netlify.app/](https://jai1.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view](https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view)
+- 💬 Ask me about **react, node-js and DSA**
 
-- ⚡ Fun fact **I listen music 4 hours a day!!**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view](https://drive.google.com/file/d/1vaqnGZXEch0vcwr2dj0jmKhFv0t1Znfk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
